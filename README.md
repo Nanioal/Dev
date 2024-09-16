@@ -1,1 +1,1 @@
-These are exercises from FullStack open from part 0
+These are exercises from FullStack open 
